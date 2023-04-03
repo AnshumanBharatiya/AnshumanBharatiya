@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://anshumanbharatiyaa.tk/)
-<p align="center" dir="auto"><a href="https://sarojkumar007.github.io" rel="nofollow"><img width="100%" src="https://anshumanbharatiyaa.tk/images/aabharatiya1.png" style="max-width: 100%;"></a></p>
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://github.com/AnshumanBharatiya/)
+<p align="center" dir="auto"><a href="https://anshumanbharatiyaa.tk/" rel="nofollow"><img width="100%" src="https://anshumanbharatiyaa.tk/images/aabharatiya1.png" style="max-width: 100%;"></a></p>
 
 <h1 align="left">Hi 👋, I'm Anshuman</h1>
 <h3 align="left">I'm a full-time full-stack developer 👨‍💻 working at !Chaturlocal as a Product Developer since 2021 🚀.</h3>
