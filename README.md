@@ -1,7 +1,7 @@
-<img src="https://anshumanbharatiyaa.tk/images/aabharatiya1.png" align="left" height="" width="600" />  
+<img src="https://anshumanbharatiyaa.tk/images/aabharatiya1.png" align="right" height="" width="600" />  
 <br/><br/>
-<h1 align="center">Hi 👋, I'm Anshuman</h1>
-<h3 align="center">I'm a full-time full-stack developer 👨‍💻 working at !Chaturlocal as a Product Developer since 2021 🚀.</h3>
+<h1 align="left">Hi 👋, I'm Anshuman</h1>
+<h3 align="left">I'm a full-time full-stack developer 👨‍💻 working at !Chaturlocal as a Product Developer since 2021 🚀.</h3>
 
 - 🔭 I’m currently working on **[Restaurant Management System]**
 
