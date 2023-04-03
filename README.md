@@ -1,4 +1,4 @@
-<img src="https://anshumanbharatiyaa.tk/images/aabharatiya1.png" align="right" height="400" width="600" />  
+<p align="center" dir="auto"><a href="https://sarojkumar007.github.io" rel="nofollow"><img width="100%" src="https://anshumanbharatiyaa.tk/images/aabharatiya1.png" style="max-width: 100%;"></a></p>
 
 <h1 align="left">Hi 👋, I'm Anshuman</h1>
 <h3 align="left">I'm a full-time full-stack developer 👨‍💻 working at !Chaturlocal as a Product Developer since 2021 🚀.</h3>
