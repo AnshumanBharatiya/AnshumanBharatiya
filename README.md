@@ -1,5 +1,5 @@
 
-<p align="center" dir="auto"><a href="https://anshumanbharatiyaa.tk/" rel="nofollow"><img width="100%" src="https://anshumanbharatiyaa.tk/images/aabharatiya1.png" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a href="https://anshumanbharatiya.online/" rel="nofollow"><img width="100%" src="https://anshumanbharatiya.online/images/aabharatiya1.png" style="max-width: 100%;"></a></p>
 
 <h1 align="left">Hi 👋, I'm Anshuman</h1>
 <h3 align="left">I'm a full-time full-stack developer 👨‍💻 working at !Chaturlocal as a Product Developer since 2021 🚀.</h3>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JScript Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://anshumanbharatiyaa.tk/](https://anshumanbharatiyaa.tk/)
+- 👨‍💻 All of my projects are available at [https://anshumanbharatiya.online/](https://anshumanbharatiya.online/)
 
 - 💬 Ask me about **anything related to PHP technologies**
 
