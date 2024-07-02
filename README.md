@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Anshuman</h1>
 <h3 align="left">I'm a full-time full-stack developer 👨‍💻 working at !Chaturlocal as a Product Developer since 2021 🚀.</h3>
 
-- 🔭 I’m currently working on a **[Benchinfo-new-design]**
+- 🔭 I’m currently working on a **[E-COMMERCE Project]**
 
 - 🌱 I’m currently learning **JScript Algorithms and Data Structures**
 
