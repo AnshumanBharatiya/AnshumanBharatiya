@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on a **[Tutorix (Supplementary Learning Academy )]**
 
+- 🔭 My Personal Project on a **[Free Tracking System(Like Expense, Weight, Any report etc.)]**
+
 - 🌱 I’m currently learning **DSA and AWS**
 
 - 👨‍💻 All of my projects are available at [https://anshumanbharatiya.in/](https://anshumanbharatiya.in/)
