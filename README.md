@@ -3,11 +3,11 @@
 <h1 align="left">Hi 👋, I'm Anshuman</h1>
 <h3 align="left">I'm a full-stack developer 👨‍💻 working at Tutorialspoint as a Software Engineer since 2024 🚀.</h3>
 
-- 🔭 I’m currently working on a **[Tutorix (Supplementary Learning Academy )]**
+- 🔭 I’m currently working on a **[Tutorix (LMS System)]**
 
-- 🔭 My Personal Project on a **[Free Tracking System(Like Expense, Weight, Any report etc.)]**
+- 🔭 My Personal Project on a **[Free Tracking System(Like Expense, Weight, report etc.) & E-Auction Website]**
 
-- 🌱 I’m currently learning **DSA and AWS**
+- 🌱 I’m currently learning **AWS Cloud Services & AI**
 
 - 👨‍💻 All of my projects are available at [https://anshumanbharatiya.in/](https://anshumanbharatiya.in/)
 
@@ -39,8 +39,6 @@
 <br/>
 
 ## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnshumanBharatiya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanbharatiya&" alt="anshumanbharatiya" /></p></div>
 
