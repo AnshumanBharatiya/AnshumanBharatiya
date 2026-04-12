@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **[Tutorix (LMS System)]**
 
-- 🔭 My Personal Project on a **[Free Tracking System(Like Expense, Weight, report etc.) & E-Auction Website]**
+- 🔭 My Personal Project on a **[Smart Life AI Tool & E-Auction Website]**
 
 - 🌱 I’m currently learning **AWS Cloud Services & AI**
 
