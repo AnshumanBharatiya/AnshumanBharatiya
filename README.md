@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anshuman Bharatiya</h1>
-<h3 align="center">Full-Stack Developer 👨‍💻 | Software Engineer @ Tutorialspoint 🚀 | AI Agent Builder 🤖 | AWS Enthusiast ☁️</h3>
+<h3 align="center">Full-Stack Developer 👨‍💻 | Senior Software Engineer @ Tutorialspoint 🚀 | AI Agent Builder 🤖 | AWS Enthusiast ☁️</h3>
 
 <br/>
 
