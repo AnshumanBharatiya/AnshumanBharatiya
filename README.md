@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **[Tutorix (LMS System)](https://anshumanbharatiya.in/)**
-- 🛠️ Personal Projects: **Smart Life AI Tool** & **E-Auction Website**
+- 🛠️ Personal Projects: **Smart Life Mobile App.** & **E-Auction Website**
 - 🤖 Building AI Agents with **LangChain, LangGraph, CrewAI, n8n & Ollama**
 - 🌱 Currently learning **AWS Cloud Services & AI/ML**
 - 👨‍💻 All my projects: [anshumanbharatiya.in](https://anshumanbharatiya.in/)
