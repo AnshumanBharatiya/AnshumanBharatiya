@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://anshumanbharatiya.in/images/aabharatiya1.png" alt="Anshuman Bharatiya Banner" />
+  <img width="100%" src="https://anshumanbharatiya.space/images/aabharatiya1.png" alt="Anshuman Bharatiya Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anshuman Bharatiya</h1>
@@ -15,11 +15,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[Tutorix (LMS System)](https://anshumanbharatiya.in/)**
+- 🔭 Currently working on **[Tutorix (LMS System)](https://academy.tutorix.com/curriculum.htm/)**
 - 🛠️ Personal Projects: **Smart Life Mobile App.** & **E-Auction Website**
 - 🤖 Building AI Agents with **LangChain, LangGraph, CrewAI, n8n & Ollama**
 - 🌱 Currently learning **AWS Cloud Services & AI/ML**
-- 👨‍💻 All my projects: [anshumanbharatiya.in](https://anshumanbharatiya.in/)
+- 👨‍💻 All my projects: [anshumanbharatiya.space](https://anshumanbharatiya.space/)
 - 💬 Ask me about **Backend Technologies & AI Agents**
 - 📫 Reach me at **bharatiyaa10@gmail.com**
 
@@ -43,7 +43,7 @@
   <a href="https://www.leetcode.com/bharatiyaa10/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://anshumanbharatiya.in/" target="_blank">
+  <a href="https://anshumanbharatiya.space/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
